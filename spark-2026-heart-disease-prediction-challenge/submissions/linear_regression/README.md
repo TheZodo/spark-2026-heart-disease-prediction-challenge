@@ -1,1 +1,1 @@
-# Hackathon Week 1
+Submissions for the linear regression model.
